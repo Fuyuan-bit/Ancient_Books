@@ -1,13 +1,13 @@
 # Ancient_Books
+
 <div align="center">
   <img src="./assets/logo.png" width="600"/>
   <!-- <a href="https://github.com/Nobody-ML/SoulStar/tree/main/">
-    <img src="assets/logo.png" alt="Logo" width="600">  </a> -->
+    <img src="assets/logo1.png" alt="Logo" width="600">  </a> -->
   <h3 align="center">Ancient_Books - 古籍解读大模型</h3>
 </div>
 
 开源不易，如果本项目帮到大家，可以右上角帮我点个 star~ ⭐
-
 您的 star ⭐是我们最大的鼓励，欢迎 Star⭐、PR 和 Issue。
 
  ## 📖 目录
